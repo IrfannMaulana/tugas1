@@ -16,5 +16,11 @@
     "judul": "No Game No Life",
     "author": "microsoft",
     "publikasi": 2012
+  },
+  {
+    "id": 4,
+    "judul": "Harry Potter",
+    "author": "J.K. Rowling",
+    "publikasi": 2001
   }
 ]
